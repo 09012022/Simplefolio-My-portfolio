@@ -1,4 +1,5 @@
 # Simplefolio-My-portfolio
+On the about section there is a quick preview of my project deployed on Netlify.
 
 How to use: ----You'll need Git and Node.js (which comes with NPM) installed on your computer.
 
